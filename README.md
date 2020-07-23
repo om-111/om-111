@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+### Love Coding in Python :snake:. I also write Poems at times. Just some silly codes and sweet and lovely rhymes.
 <!--
 **om-01/om-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:snake:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
