@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Love Coding in Python :snake:. I also write Poems at times. Just some silly codes and sweet and lovely rhymes.
+### Love Coding in Python :snake:. I also write :writing_hand: Poems at times. Just some nice codes :computer: and sweet and silly rhymes :notes:.
 <!--
 **om-01/om-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
