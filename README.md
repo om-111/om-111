@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Love Coding in Python :snake:,
 ### Writing :writing_hand: Poems at times.
 ### Just some nice codes :computer: and,
